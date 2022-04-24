@@ -1,3 +1,3 @@
-## Welcome to GitHub Pages
+## Welcome 
 
-You can use the [editor on GitHub](https://github.com/HBVD/HBVD.github.io/edit/main/index.md)
+welcome to BVD studios page 
